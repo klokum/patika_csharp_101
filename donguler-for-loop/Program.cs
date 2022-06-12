@@ -26,7 +26,7 @@
         Console.WriteLine("Tek Toplam: " + tekToplam);
         Console.WriteLine("Çift Toplam: " + ciftToplam);
 
-        //break(Döngü sonlansın istersek), continue(O şartı sağladığında döngü ondan sonraki kod satırını atlar ve döngü diğer aşamadan devam eder.)
+        //break(Döngü sonlansın istersek), continue(o şartı sağladığında bir sonraki iterasyona atlar.)
 
         for (int i = 1; i < 10; i++)
         {
